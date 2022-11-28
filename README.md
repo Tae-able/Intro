@@ -1,0 +1,2 @@
+# Intro
+pratice a programing
